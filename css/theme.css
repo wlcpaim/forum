@@ -1,0 +1,20 @@
+:root {
+  --bg: #0e1116;
+  --surface: #151a21;
+  --text: #e7ecf2;
+  --muted: #8b96a5;
+  --primary: #a3e635;
+  --primary-contrast: #0e1116;
+  --border: #232a35;
+  --hover: #1c232d;
+  --ok: #4ade80;
+  --danger: #f87171;
+  --hero-bg: radial-gradient(1200px 400px at 20% 0%, rgb(163 230 53 / .12), transparent), #0e1116;
+  --admin-bg: #0b0e12;
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
+  --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+  --radius: 12px;
+  --btn-radius: 10px;
+  --card-ratio: 16 / 9;
+  --shadow: 0 20px 50px -20px rgb(0 0 0 / .6);
+}
